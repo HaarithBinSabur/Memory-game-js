@@ -7,7 +7,7 @@ This is a Simple mind game that can fill in your time when bored and can also pa
 --There will be updates to the game like:
 - a timer (to see how fast you can finsh the game)
 - A user board ( to track Ihigh scores and there players)
-- Different card Decks and
+- Different card Decks
 - And many more...
 
 please stand by for more updates and if you have any updates inputs please feel free to contact me ^-^
